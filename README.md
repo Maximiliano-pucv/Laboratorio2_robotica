@@ -1,5 +1,7 @@
 # Laboratorio2_robotica
 
+## Importante
+Para ver el video, tendra que descargar el ZIP y descomprimirlo
 ## Integrantes:
 
 1. Maximiliano Esteban Miño Silva
